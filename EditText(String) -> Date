@@ -1,1 +1,3 @@
 val datum=SimpleDateFormat("dd/MM/yyyy").parse(etDatum.text.toString())
+
+/*Firebase sortira točno rezultate*/
